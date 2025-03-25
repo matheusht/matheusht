@@ -8,22 +8,16 @@
 
 ---
 
-<details>
-<summary><b>🔭 Technical Focus</b></summary>
-
+### 🔭 Technical Focus
 - **Blue Team**: SIEM (Elastic/Wazuh), IDS/IPS (Suricata/Snort), Threat Hunting, SOC Operations  
 - **Pentesting**: Web app vulnerability assessment, OWASP Top 10  
 - **Malware Analysis**: REMnux/FlareVM, Static/Dynamic Analysis, Reverse Engineering  
 - **Security Engineering**: CI/CD Security Automation (Nessus), MFA/PAM, hardening  
 - **Tools**: `Kali Linux` `pfSense` `Burp Suite` `Python` `Bash` `PowerShell`  
 
-</details>
-
 ---
 
-<details>
-<summary><b>🚀 Featured Projects</b></summary>
-
+### 🚀 Featured Projects
 1. **Synkro** - *Enterprise SIEM Implementation*  
    Built Elastic Stack on Kubernetes for threat detection, reducing incident response time through automated workflows.  
    *(Elasticsearch, Logstash, Kibana, MITRE ATT&CK)*
@@ -38,41 +32,27 @@
 
 [🔍 View All Projects](https://github.com/matheusht?tab=repositories)
 
-</details>
-
 ---
 
-<details>
-<summary><b>📚 Education & Certifications</b></summary>
-
+### 📚 Education & Certifications
 - **Technical Diploma in IT** (System Analysis & Computing) - *2025*  
 - **CompTIA Security+** - *Expected 2025*  
 - **CS-340 Networking Fundamentals** (Self-Paced)  
 
-</details>
-
 ---
 
-<details>
-<summary><b>🌱 Current Learning</b></summary>
-
+### 🌱 Current Learning
 - **Reverse Engineering**: Ghidra/IDA Pro workflows  
 - **Cloud Security**: AWS/Azure security monitoring  
 - **Threat Intelligence**: MISP platform integration  
 
-</details>
-
 ---
 
-<details>
-<summary><b>💬 Collaboration Opportunities</b></summary>
-
+### 💬 Collaboration Opportunities  
 I'm actively looking to:  
 - Participate in **CTF competitions** (HackTheBox, TryHackMe)  
 - Contribute to open-source security tools (SIEM integrations, detection rules)  
 - Collaborate on malware analysis/research projects  
-
-</details>
 
 ---
 
