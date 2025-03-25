@@ -56,7 +56,5 @@ I'm actively looking to:
 
 ---
 
-📫 **Reach Out**: I'm actively looking tocollaborate on projects, reach out! 
+📫 **Contact me**: I'm actively looking to collaborate on projects.
 → **Email**: dev.matheustheodoro@gmail.com | **Phone**: +55 44 99952-2514
-
-[![LinkedIn](https://img.shields.io/badge/-Let's_connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheustheodoro1)
