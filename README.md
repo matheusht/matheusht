@@ -56,5 +56,6 @@ I'm actively looking to:
 
 ---
 
-📫 **Contact me**: I'm actively looking to collaborate on projects.
-→ **Email**: dev.matheustheodoro@gmail.com | **Phone**: +55 44 99952-2514
+📫 **Contact me**:  
+I'm actively looking to collaborate on projects.  
+- → **Email**: dev.matheustheodoro@gmail.com
