@@ -3,7 +3,7 @@
 **17-year-old Cybersecurity Student**  
 
 [![Email](https://img.shields.io/badge/Email-dev.matheustheodoro%40gmail.com-red?style=flat&logo=gmail)](mailto:dev.matheustheodoro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Theodoro-blue?style=flat&logo=linkedin)](https://linkedin.com/in/matheustheodoro1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Theodoro-blue?style=flat&logo=linkedin)](https://linkedin.com/in/matheusht)
 [![Website](https://img.shields.io/badge/Portfolio-matheus.theodoro.dev-9cf?style=flat)](https://matheus.theodoro.dev/)
 
 ---
