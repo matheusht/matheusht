@@ -13,7 +13,7 @@
 - **Pentesting**: Web app vulnerability assessment, OWASP Top 10  
 - **Malware Analysis**: REMnux/FlareVM, Static/Dynamic Analysis, Reverse Engineering  
 - **Security Engineering**: CI/CD Security Automation (Nessus), MFA/PAM, hardening  
-- **Tools**: `Kali Linux` `pfSense` `Burp Suite` `Python` `Bash` `PowerShell`  
+- **Tools**:  `Burp Suite` `Nmap` `Wireshark` `pfSense` `Python` `Bash` `PowerShell` `Automation` `OWASP ZAP`
 
 ---
 
@@ -37,13 +37,15 @@
 ### 📚 Education & Certifications
 - **Technical Diploma in IT** (System Analysis & Computing) - *2025*  
 - **CompTIA Security+** - *Expected 2025*  
-- **CS-340 Networking Fundamentals** (Self-Paced)  
 
 ---
 
-### 🌱 Current Learning
-- **Reverse Engineering**: Ghidra/IDA Pro workflows  
-- **Cloud Security**: AWS/Azure security monitoring  
+### 🌱 Current Learning & Interests
+
+- **Pentesting**: Mastering web and network exploitation techniques
+- **Reverse Engineering**: Ghidra/IDA Pro
+- **Exploit Development**: Crafting custom exploits
+- **Open-Source**: Building and contributing to pentesting tools 
 - **Threat Intelligence**: MISP platform integration  
 
 ---
@@ -51,7 +53,7 @@
 ### 💬 Collaboration Opportunities  
 I'm actively looking to:  
 - Participate in **CTF competitions** (HackTheBox, TryHackMe)  
-- Contribute to open-source security tools (SIEM integrations, detection rules)  
+- Contribute to open-source security tools (Pentesting tools, SIEM integrations, detection rules)  
 - Collaborate on malware analysis/research projects  
 
 ---
