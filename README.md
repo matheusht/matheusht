@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matheus Theodoro 
 
-**17-year-old Cybersecurity Student**  
+**17-year-old OffSec Engineer**  
 
 [![Email](https://img.shields.io/badge/Email-dev.matheustheodoro%40gmail.com-red?style=flat&logo=gmail)](mailto:dev.matheustheodoro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Theodoro-blue?style=flat&logo=linkedin)](https://linkedin.com/in/matheusht)
