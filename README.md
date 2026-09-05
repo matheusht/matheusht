@@ -1,15 +1,15 @@
-# Matheus Theodoro
-Offensive Security | AI Red-Teaming 
+<!-- Rendered by the site at build time from src/content + src/data (https://github.com/matheusht/portfolio, scripts/generate-readme.mjs). Edit content there, not here.
+     Each block is a dark and a light image. GitHub hides the link whose href ends in #gh-<other>-mode-only,
+     so only the reader's theme shows. The <source> swaps in a 400px render on phones. -->
+[matheus.theodoro.dev](https://matheus.theodoro.dev) · [linkedin](https://linkedin.com/in/matheusht) · [email](mailto:dev.matheustheodoro@gmail.com)
 
-[Portfolio](https://matheus.theodoro.dev/) • [LinkedIn](https://linkedin.com/in/matheusht) • [Email](mailto:dev.matheustheodoro@gmail.com)
-
-## Projects & Research
-* **[RedThread](https://github.com/matheusht/redthread)**: Autonomous AI red-teaming engine orchestrating multi-agent workflows for continuous LLM security testing and self-healing.
-* **[Synkro](https://github.com/caiotheodoro/synkro)**: Enterprise Elastic Stack SIEM architecture deployed on Kubernetes.
-* **[WindWhisper](https://github.com/matheusht)**: 1st Place Winner at NASA Space Apps 2025. AI-driven AgTech assistant utilizing satellite telemetry.
-
-## Stack
-Python • C/C++ • AWS • Kubernetes • Elastic Stack • LangGraph • Suricata
-
-## Contact
-[dev.matheustheodoro@gmail.com](mailto:dev.matheustheodoro@gmail.com)
+<a href="https://matheus.theodoro.dev/readme/go/currently#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/currently-dark-narrow.svg"><img alt="Currently: AI Security Engineer at Adapta." src="https://matheus.theodoro.dev/readme/currently-dark.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/currently#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/currently-light-narrow.svg"><img alt="Currently: AI Security Engineer at Adapta." src="https://matheus.theodoro.dev/readme/currently-light.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-1#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-1-dark-narrow.svg"><img alt="Recent writing: Constitutional Classifiers v2: What 1,736 Hours of Red Teaming Revealed About Production AI Defense" src="https://matheus.theodoro.dev/readme/post-1-dark.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-1#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-1-light-narrow.svg"><img alt="Recent writing: Constitutional Classifiers v2: What 1,736 Hours of Red Teaming Revealed About Production AI Defense" src="https://matheus.theodoro.dev/readme/post-1-light.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-2#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-2-dark-narrow.svg"><img alt="Recent writing: FlowSteer: The Attack That Current Multi-Agent Defenses Can't See" src="https://matheus.theodoro.dev/readme/post-2-dark.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-2#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-2-light-narrow.svg"><img alt="Recent writing: FlowSteer: The Attack That Current Multi-Agent Defenses Can't See" src="https://matheus.theodoro.dev/readme/post-2-light.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-3#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-3-dark-narrow.svg"><img alt="Recent writing: The Red Teamer's Guide to Agentic Defenses: 12 Systems and Where They Break" src="https://matheus.theodoro.dev/readme/post-3-dark.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/post-3#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-3-light-narrow.svg"><img alt="Recent writing: The Red Teamer's Guide to Agentic Defenses: 12 Systems and Where They Break" src="https://matheus.theodoro.dev/readme/post-3-light.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/redthread#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/redthread-dark-narrow.svg"><img alt="RedThread — autonomous AI red-teaming engine." src="https://matheus.theodoro.dev/readme/redthread-dark.svg"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/redthread#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/redthread-light-narrow.svg"><img alt="RedThread — autonomous AI red-teaming engine." src="https://matheus.theodoro.dev/readme/redthread-light.svg"></picture></a>
