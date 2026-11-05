@@ -5,7 +5,7 @@
 [matheus.theodoro.dev](https://matheus.theodoro.dev) · [linkedin](https://linkedin.com/in/matheusht) · [email](mailto:dev.matheustheodoro@gmail.com)
 
 
-<a href="https://matheus.theodoro.dev/readme/go/currently#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/currently-dark-narrow.svg?v=2"><img alt="Currently: AI Security Engineer at Adapta." src="https://matheus.theodoro.dev/readme/currently-dark.svg?v=2"></picture></a>
+<a href="https://matheus.theodoro.dev/readme/go/currently#gh-dark-mode-only"><picture><img alt="Currently: AI Security Engineer at Adapta." src="https://matheus.theodoro.dev/readme/currently-dark.svg?v=2"></picture></a>
 <a href="https://matheus.theodoro.dev/readme/go/currently#gh-light-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/currently-light-narrow.svg?v=2"><img alt="Currently: AI Security Engineer at Adapta." src="https://matheus.theodoro.dev/readme/currently-light.svg?v=2"></picture></a>
 
 <a href="https://matheus.theodoro.dev/readme/go/post-1#gh-dark-mode-only"><picture><source media="(max-width: 600px)" srcset="https://matheus.theodoro.dev/readme/post-1-dark-narrow.svg?v=2"><img alt="Recent writing: Constitutional Classifiers v2: What 1,736 Hours of Red Teaming Revealed About Production AI Defense" src="https://matheus.theodoro.dev/readme/post-1-dark.svg?v=2"></picture></a>
